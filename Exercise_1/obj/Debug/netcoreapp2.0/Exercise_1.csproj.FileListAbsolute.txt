@@ -1,0 +1,11 @@
+c:\users\macie\source\repos\1_Warsztaty\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.deps.json
+c:\users\macie\source\repos\1_Warsztaty\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.runtimeconfig.json
+c:\users\macie\source\repos\1_Warsztaty\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.runtimeconfig.dev.json
+c:\users\macie\source\repos\1_Warsztaty\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.dll
+c:\users\macie\source\repos\1_Warsztaty\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.pdb
+c:\users\macie\source\repos\1_Warsztaty\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.csprojResolveAssemblyReference.cache
+c:\users\macie\source\repos\1_Warsztaty\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.csproj.CoreCompileInputs.cache
+c:\users\macie\source\repos\1_Warsztaty\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.AssemblyInfoInputs.cache
+c:\users\macie\source\repos\1_Warsztaty\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.AssemblyInfo.cs
+c:\users\macie\source\repos\1_Warsztaty\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.dll
+c:\users\macie\source\repos\1_Warsztaty\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.pdb
