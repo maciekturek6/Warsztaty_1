@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\macie\\source\\repos\\1_Warsztaty\\Exercise_1\\Exercise_1.csproj",
+      "projectUniqueName": "C:\\Users\\macie\\source\\repos\\1_Warsztaty\\Warsztaty_1\\Exercise_1\\Exercise_1.csproj",
       "projectName": "Exercise_1",
-      "projectPath": "c:\\users\\macie\\source\\repos\\1_Warsztaty\\Exercise_1\\Exercise_1.csproj",
+      "projectPath": "C:\\Users\\macie\\source\\repos\\1_Warsztaty\\Warsztaty_1\\Exercise_1\\Exercise_1.csproj",
       "packagesPath": "C:\\Users\\macie\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\macie\\source\\repos\\1_Warsztaty\\Exercise_1\\obj\\",
+      "outputPath": "C:\\Users\\macie\\source\\repos\\1_Warsztaty\\Warsztaty_1\\Exercise_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
